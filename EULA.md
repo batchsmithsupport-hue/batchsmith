@@ -2,7 +2,7 @@
 
 Effective date: 2026-11-25
 
-1. **Parties.** This agreement is between you and Batchsmith ("we"). It covers the Batchsmith plug-in for JetBrains IDEs (the "Software"). We are the licensor of the Software. JetBrains s.r.o. and its affiliates ("JetBrains") are not a party to this agreement. By installing the Software you accept this agreement.
+1. **Parties.** This agreement is between you and Terene Lee ("we"). It covers the Batchsmith plug-in for JetBrains IDEs (the "Software"). We are the licensor of the Software. JetBrains s.r.o. and its affiliates ("JetBrains") are not a party to this agreement. By installing the Software you accept this agreement.
 2. **License.** We grant you a free, perpetual, worldwide, non-exclusive, non-transferable license to install and use the Software for personal and commercial work, subject to this agreement.
 3. **Limits.** You may not sell, rent, sublicense or redistribute the Software, or present it as your own work. You may not modify or reverse engineer it except where the law allows this despite any limit.
 4. **Ownership.** The Software is licensed, not sold. We keep all rights in it that this agreement does not grant.
